@@ -45,7 +45,11 @@ Data mining and machine learning approaches could be used to solve this category
 - We tried forecasting data for the next 24 months and the predictions were found to be in the range of the actual dataset.
 - We even tried ARIMA but Arima wasn’t performing well because our dataset was nonstationary
 
+## How to run:
 
+- Just donwload the notebooks and the dataset and put all of them in one folder. In my case I loaded the dataset from drive so just remove the mount drive portiaon from the ipynb files. Instead of that keep everything the same and just keep on running till the end. 
+- Please do read all the description below the code in notebook, it will give you some really insighful informationa about what the code is doing and how interesting Time Series Anaysis can be.
 
+# Thank You. Hope you enjoy the Notebook.
  
 
