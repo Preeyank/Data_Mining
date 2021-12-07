@@ -38,6 +38,12 @@ Data mining and machine learning approaches could be used to solve this category
 - Police_Killings - 8427 rows x 67 columns ([Kaggle link to dataset](https://www.kaggle.com/jpmiller/police-violence-in-the-us/version/19?select=police_killings.csv))
 
 
+## Conclusion
+
+- SARIMAX MODEL with order(1,1,1) and Seasonal order(1,1,1,12) - 77.85%
+- We successfully converted non-stationary data to stationary data for better predictions
+- We tried forecasting data for the next 24 months and the predictions were found to be in the range of the actual dataset.
+- We even tried ARIMA but Arima wasn’t performing well because our dataset was nonstationary
 
 
 
