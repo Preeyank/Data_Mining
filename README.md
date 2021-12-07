@@ -34,8 +34,7 @@ Data mining and machine learning approaches could be used to solve this category
 
 ## Datasets Used
 
-- Fatal_Encounters - 28600 rows x 29 columns 
-              [](https://www.kaggle.com/jpmiller/police-violence-in-the-us?select=fatal_encounters_dot_org.csv)
+- Fatal_Encounters - 28600 rows x 29 columns ([](https://www.kaggle.com/jpmiller/police-violence-in-the-us?select=fatal_encounters_dot_org.csv))
 - Police_Killings - 8427 rows x 67 columns 
 ([https://www.kaggle.com/jpmiller/police-violence-in-the-us/version/19?select=police_killings.csv](url))
 
